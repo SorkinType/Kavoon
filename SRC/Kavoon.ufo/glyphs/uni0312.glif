@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0312" format="1">
+  <advance width="0"/>
+  <unicode hex="0312"/>
+  <outline>
+    <contour>
+      <point x="19" y="1295" type="curve" name="hr00"/>
+      <point x="71" y="1295"/>
+      <point x="122" y="1304"/>
+      <point x="160" y="1319" type="curve"/>
+      <point x="169" y="1450"/>
+      <point x="186" y="1550"/>
+      <point x="224" y="1694" type="curve"/>
+      <point x="82" y="1751" type="line"/>
+      <point x="-40" y="1695"/>
+      <point x="-207" y="1515"/>
+      <point x="-224" y="1406" type="curve"/>
+      <point x="-190" y="1328"/>
+      <point x="-83" y="1295"/>
+    </contour>
+    <contour>
+      <point x="11" y="1530" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.656</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="1289" width="531" />
+      <vstem pos="-159" width="338" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
