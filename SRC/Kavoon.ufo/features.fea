@@ -1,4 +1,5 @@
 # Prefix: Prefix
+# automatic
 # Script and language coverage
 languagesystem DFLT dflt;
 languagesystem latn dflt;
@@ -9,20 +10,28 @@ languagesystem latn TRK ;
 languagesystem latn MOL ;
 languagesystem latn ROM ;
 
+# automatic
 @sups2 = [ onesuperior twosuperior threesuperior ];
 
+# automatic
 @sups1 = [ one two three ];
 
+# automatic
 @ordn1 = [ zero one two three four five six seven eight nine ];
 
 feature aalt {
-  feature locl;
-  feature ordn;
+# automatic
+feature locl;
+feature ordn;
+feature frac;
+feature sups;
 } aalt;
 
 feature locl {
- # Localized Forms
+# Localized Forms
+script DFLT;
 # Latin
+script latn;
 language AZE  exclude_dflt; # Azeri
     sub i by i.cy;
  language CAT;
@@ -43,7 +52,9 @@ lookup locl_ROM;
 } locl;
 
 feature ordn {
- script latn;
+# Ordinal Forms
+script DFLT;
+script latn; # Latin
   sub @ordn1 a' by ordfeminine;
   sub @ordn1 o' by ordmasculine;
   sub @ordn1 period a' by ordfeminine;
@@ -52,12 +63,12 @@ feature ordn {
  language TRK ; # Turkish
  language MOL ; # Moldavian
  language ROM ; # Romanian
- 
 } ordn;
 
 feature frac {
- # Fractions
- script latn; # Latin
+# Fractions
+script DFLT;
+script latn; # Latin
     sub one slash four by onequarter;
     sub one slash two by onehalf;
     sub three slash four by threequarters;
@@ -71,18 +82,20 @@ feature frac {
 } frac;
 
 feature sups {
- # Superscript
- script latn; # Latin
-    sub @sups1 by @sups2;  
+# Superscript
+script DFLT;
+script latn; # Latin
+   sub @sups1 by @sups2;  
  language AZE ; # Azeri
  language TRK ; # Turkish
  language MOL ; # Moldavian
  language ROM ; # Romanian
- 
 } sups;
 
 feature liga {
- script latn;
+# Ligatures
+script DFLT;
+script latn; # Latin
   sub f f i by f_f_i;
   sub f f l by f_f_l;
   sub f f by f_f;

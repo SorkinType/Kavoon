@@ -9,7 +9,7 @@
 			<key>X: 118</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -31,7 +31,7 @@
 			<key>X: 15</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -53,7 +53,7 @@
 			<key>X: 196</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -75,7 +75,7 @@
 			<key>X: 352</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -97,7 +97,7 @@
 			<key>X: 353</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -117,7 +117,7 @@
 			<key>X: 356</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -139,7 +139,7 @@
 			<key>X: 394</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -161,7 +161,7 @@
 			<key>X: 40</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -183,7 +183,7 @@
 			<key>X: 441</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -205,7 +205,7 @@
 			<key>X: 506</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -227,7 +227,7 @@
 			<key>X: 662</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -247,7 +247,7 @@
 			<key>X: 7</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -269,7 +269,7 @@
 			<key>Y: 11</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -291,7 +291,7 @@
 			<key>Y: 229</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -313,7 +313,7 @@
 			<key>Y: 247</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -335,7 +335,7 @@
 			<key>Y: 257</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -357,7 +357,7 @@
 			<key>Y: 283</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -379,7 +379,7 @@
 			<key>Y: 290</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -401,7 +401,7 @@
 			<key>Y: 293</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -423,7 +423,7 @@
 			<key>Y: 333</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -445,7 +445,7 @@
 			<key>Y: 421</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -472,7 +472,7 @@
 				<key>position</key>
 				<integer>0</integer>
 				<key>top</key>
-				<false/>
+				<integer>0</integer>
 				<key>width</key>
 				<integer>50</integer>
 			</dict>
@@ -481,7 +481,7 @@
 				<key>position</key>
 				<integer>-418</integer>
 				<key>top</key>
-				<false/>
+				<integer>0</integer>
 				<key>width</key>
 				<integer>0</integer>
 			</dict>
@@ -490,7 +490,7 @@
 				<key>position</key>
 				<integer>1250</integer>
 				<key>top</key>
-				<true/>
+				<integer>1</integer>
 				<key>width</key>
 				<integer>0</integer>
 			</dict>
@@ -499,14 +499,14 @@
 				<key>position</key>
 				<integer>1588</integer>
 				<key>top</key>
-				<true/>
+				<integer>1</integer>
 				<key>width</key>
 				<integer>0</integer>
 			</dict>
 		</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>D74DB7F5-29CD-48B8-A95E-A834B0B1ECC5</string>
+	<string>27755B05-E310-4B11-A140-3F13B29BCF06</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
 	<key>com.typemytype.robofont.guides</key>
@@ -519,7 +519,7 @@
 			<key>x</key>
 			<integer>0</integer>
 			<key>y</key>
-			<integer>12896</integer>
+			<integer>100</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -1052,25 +1052,25 @@
 		<string>DC3</string>
 		<string>DC4</string>
 		<string>DLE</string>
-		<string>gtilde</string>
 		<string>Gtilde</string>
+		<string>gtilde</string>
 		<string>HT</string>
 		<string>LF</string>
 		<string>NULL</string>
 		<string>RS</string>
 		<string>uni0001</string>
 		<string>uni0002</string>
-		<string>uni0003</string>
 		<string>uni0004</string>
-		<string>uni0007</string>
-		<string>uni0006</string>
+		<string>uni0003</string>
 		<string>uni0005</string>
+		<string>uni0006</string>
+		<string>uni0007</string>
 		<string>uni0008</string>
 		<string>uni0016</string>
 		<string>uni0015</string>
 		<string>uni0017</string>
-		<string>uni0018</string>
 		<string>uni0019</string>
+		<string>uni0018</string>
 		<string>US</string>
 	</array>
 </dict>
