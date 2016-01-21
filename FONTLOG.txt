@@ -19,19 +19,23 @@ ranges: Latin-1
 
 There are two Source files:
 
-1. Kavoon.vfb Original Source Files with 
-   contour overlaps
+1. Kavoon-Regular.vfb Original Source Files with contour overlaps
+   for version 1.003 and earlier
 
-1. Kavoon.ufo Original Source Files with 
-   contour overlaps
+2. Kavoon.ufo Original Source Files made with vfb2ufo and further
+   developed with Glyphs for v1.004 and later
 
-To contribute to the project contact Eben Sorkin at sorkineben@gmail.com
+To contribute to the project see https://github.com/EbenSorkin/Kavoon
 
 ChangeLog
 
+20 Jan 2016 (Dave Crossland) Kavoon v1.004
+- Fixed GSUB table to pass ot-sanitise by
+  rebuilding the font with Glyphs 2.3b
+
 12 Jan 2016 (Eben Sorkin) Kavoon v1.003
 - Improved language coverage
--Fixed overlaps in Q
+- Fixed overlaps in Q
 - Added OpenType code
 - Added hinting using TTFautohint version 1.4.1
 
