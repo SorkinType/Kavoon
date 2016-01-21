@@ -3,25 +3,23 @@
   <advance width="1082"/>
   <unicode hex="00B2"/>
   <outline>
-    <component base="two" xScale="0.87" yScale="0.87" xOffset="56" yOffset="578"/>
+    <component base="two" xOffset="56" yOffset="578" xScale="0.87" yScale="0.87"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>561</real>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>561</integer>
+        </dict>
+      </array>
     </dict>
-  </array>
-  </dict>
   </lib>
 </glyph>

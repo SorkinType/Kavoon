@@ -54,7 +54,7 @@
       <point x="1046" y="551"/>
       <point x="1036" y="472"/>
     </contour>
-    <component base="one" xScale="0.87" yScale="0.87" xOffset="-5" yOffset="790"/>
+    <component base="one" xOffset="-5" yOffset="790" xScale="0.87" yScale="0.87"/>
     <component base="fraction" xOffset="110"/>
   </outline>
 </glyph>

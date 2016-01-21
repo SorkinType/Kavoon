@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="1">
-  <advance width="1110"/>
+  <advance width="1057"/>
   <unicode hex="00BA"/>
   <outline>
-    <component base="o" xScale="0.888472" yScale="0.888797" xOffset="26" yOffset="497"/>
+    <component base="o" xScale="0.888" yScale="0.889"/>
   </outline>
 </glyph>

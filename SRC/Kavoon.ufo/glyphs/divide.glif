@@ -24,7 +24,7 @@
       <point x="116" y="473"/>
       <point x="117" y="454"/>
     </contour>
-    <component base="period" xScale="0.913043" yScale="0.912114" xOffset="240" yOffset="799"/>
-    <component base="period" xScale="0.913043" yScale="0.912114" xOffset="240" yOffset="-22"/>
+    <component base="period" xOffset="240" yOffset="799" xScale="0.913" yScale="0.912"/>
+    <component base="period" xOffset="240" yOffset="-22" xScale="0.913" yScale="0.912"/>
   </outline>
 </glyph>
