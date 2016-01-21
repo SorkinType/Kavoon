@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ordfeminine" format="1">
-  <advance width="1107"/>
-  <unicode hex="00AA"/>
-  <outline>
-    <component base="a" xScale="0.888589" yScale="0.888797" xOffset="15" yOffset="497"/>
-  </outline>
-</glyph>

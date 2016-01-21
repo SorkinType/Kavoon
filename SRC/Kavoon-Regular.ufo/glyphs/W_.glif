@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="1968"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="311" y="55" type="line"/>
+      <point x="376" y="-3"/>
+      <point x="490" y="-20"/>
+      <point x="600" y="-20" type="curve" smooth="yes"/>
+      <point x="657" y="-20"/>
+      <point x="741" y="-8"/>
+      <point x="784" y="40" type="curve"/>
+      <point x="869" y="198"/>
+      <point x="932" y="437"/>
+      <point x="973" y="684" type="curve"/>
+      <point x="976" y="811" type="line"/>
+      <point x="989" y="810" type="line"/>
+      <point x="995" y="743"/>
+      <point x="1014" y="627"/>
+      <point x="1019" y="598" type="curve" smooth="yes"/>
+      <point x="1084" y="261" type="line"/>
+      <point x="1057" y="56" type="line"/>
+      <point x="1129" y="-2"/>
+      <point x="1238" y="-20"/>
+      <point x="1348" y="-20" type="curve" smooth="yes"/>
+      <point x="1406" y="-20"/>
+      <point x="1496" y="-11"/>
+      <point x="1545" y="40" type="curve"/>
+      <point x="1663" y="203"/>
+      <point x="1728" y="364"/>
+      <point x="1793" y="545" type="curve" smooth="yes"/>
+      <point x="1881" y="788"/>
+      <point x="1947" y="1100"/>
+      <point x="1947" y="1276" type="curve" smooth="yes"/>
+      <point x="1947" y="1463"/>
+      <point x="1859" y="1551"/>
+      <point x="1686" y="1551" type="curve" smooth="yes"/>
+      <point x="1549" y="1551"/>
+      <point x="1410" y="1480"/>
+      <point x="1371" y="1431" type="curve"/>
+      <point x="1371" y="1361"/>
+      <point x="1373" y="1311"/>
+      <point x="1393" y="1234" type="curve"/>
+      <point x="1511" y="1215" type="line"/>
+      <point x="1508" y="1018"/>
+      <point x="1430" y="410"/>
+      <point x="1379" y="291" type="curve"/>
+      <point x="1368" y="291" type="line"/>
+      <point x="1349" y="544"/>
+      <point x="1304" y="897"/>
+      <point x="1240" y="1147" type="curve"/>
+      <point x="1240" y="1301" type="line"/>
+      <point x="1237" y="1468"/>
+      <point x="1099" y="1551"/>
+      <point x="931" y="1551" type="curve" smooth="yes"/>
+      <point x="794" y="1551"/>
+      <point x="657" y="1480"/>
+      <point x="618" y="1431" type="curve"/>
+      <point x="618" y="1361"/>
+      <point x="620" y="1311"/>
+      <point x="640" y="1234" type="curve"/>
+      <point x="766" y="1215" type="line"/>
+      <point x="763" y="1018"/>
+      <point x="688" y="407"/>
+      <point x="635" y="290" type="curve"/>
+      <point x="620" y="290" type="line"/>
+      <point x="611" y="458"/>
+      <point x="609" y="708"/>
+      <point x="549" y="1066" type="curve"/>
+      <point x="525" y="1204"/>
+      <point x="497" y="1327"/>
+      <point x="450" y="1415" type="curve" smooth="yes"/>
+      <point x="396" y="1515"/>
+      <point x="315" y="1549"/>
+      <point x="232" y="1549" type="curve" smooth="yes"/>
+      <point x="107" y="1549"/>
+      <point x="-33" y="1486"/>
+      <point x="-69" y="1371" type="curve"/>
+      <point x="-62" y="1304"/>
+      <point x="-50" y="1241"/>
+      <point x="-28" y="1184" type="curve"/>
+      <point x="72" y="1177" type="line"/>
+      <point x="136" y="1083"/>
+      <point x="276" y="464"/>
+      <point x="333" y="243" type="curve"/>
+    </contour>
+    <contour>
+      <point x="962" y="3" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1327</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>290</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>40</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

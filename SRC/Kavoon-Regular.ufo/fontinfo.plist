@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>2020</integer>
+	<key>capHeight</key>
+	<integer>1530</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Kavoon'</string>
+	<key>descender</key>
+	<integer>-540</integer>
+	<key>familyName</key>
+	<string>Kavoon</string>
+	<key>openTypeHeadCreated</key>
+	<string>2013/01/10 09:53:00</string>
+	<key>openTypeHheaAscender</key>
+	<integer>2020</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-540</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDescription</key>
+	<string>Kavoon is a display face based on experiments with brush and ink. Kavoon's expressive features make words vivid and powerfully draw the reader in. Kavoon may be used from medium to large sizes.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Viktoriya Grabowska</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.vikaniesiada.blogspot.com</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Viktoriya Grabowska</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>www.sorkintype.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Kavoon</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2020</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-540</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>STC</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2020</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>540</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>1165</integer>
+		<integer>1185</integer>
+		<integer>1530</integer>
+		<integer>1550</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-432</integer>
+		<integer>-412</integer>
+		<integer>1613</integer>
+		<integer>1636</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>333</integer>
+		<integer>11</integer>
+		<integer>247</integer>
+		<integer>293</integer>
+		<integer>421</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>15</integer>
+		<integer>352</integer>
+		<integer>356</integer>
+		<integer>394</integer>
+		<integer>441</integer>
+		<integer>506</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-56</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>282</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Kavoon is a trademark of Sorkin Type Co.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>4</integer>
+	<key>xHeight</key>
+	<integer>1185</integer>
+	<key>year</key>
+	<integer>2012</integer>
+</dict>
+</plist>
