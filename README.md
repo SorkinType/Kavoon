@@ -1,8 +1,8 @@
 # Kavoon
 
-Kavoon is useful for creating short, eye-catching texts, headlines and captions.
+Kavoon is useful for creating eye-catching text, headlines and captions and logos.
 
-It is a single-style font (Regular only.)
+Kavoon is a single-style font. (Regular only)
 
 ## License
 
@@ -12,9 +12,9 @@ For legal notices and license text, please see [OFL.txt](OFL.txt)
 
 ## Language Coverage
 
-OTM says that Fruktur has 73 of 105 Latin Languages covered at 100%.
+OTM says that Kavoon has 73 of 105 Latin Languages covered at 100%.
 
-Atomic Age covers at 100% the following Latin languages definions from Pyfontaine:
+The following Latin languages are covered @ 100% according to the language definions in Pyfontaine:
 
 Afrikaans (Namibia), Afrikaans (South Africa), Albanian (Albania), Albanian
 (Kosovo), Albanian (Macedonia), Asu (Tanzania), Basic Latin, Basque (Spain), Bemba
